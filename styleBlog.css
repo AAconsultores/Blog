@@ -98,6 +98,7 @@ color: var(--main-color);
 }
 .logo{
     width: 4rem;;
+
 }
 /* hambur */
 
@@ -206,10 +207,6 @@ color: var(--main-color);
     background-color: #222;
     color:#dfe6e9;
 }
-
-  
-
- 
 /* footer */
 
 
@@ -373,17 +370,19 @@ footer .rrss a [title]{
     .blog--img {
  width: 150px;
  height: auto;
-   
-     
-     
-    }
-    .interrogante{
+  
+    } 
+
+.interrogante{
         width: 200px;
         height: auto;
-          
-            
-            
-           }
+ }
+ .navbar__container{
+
+	padding: 0 30px 0 20px;
+	
+}
+
       
       
   }
